@@ -24,7 +24,7 @@ This repository reproduces the analysis of Pereira et al. (2025) and investigate
 
 ## Repository Structure
 
-### `Model_8_MIE.ipynb`
+### `Scattering_model.ipynb`
 
 Main analysis notebook.
 
@@ -107,7 +107,7 @@ Main outputs:
 
 ---
 
-### `Beams_3.ipynb`
+### `Beams.ipynb`
 
 Early-stage data exploration and beam identification notebook.
 
